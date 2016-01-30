@@ -3,6 +3,7 @@
 
 <pre>
 使用方法：
+<!-->
 <script src="xxxx/el.js"></script>
 <script>
   $('ul');
@@ -15,4 +16,5 @@
   $id.off(eventType,handle);
   $id.trigger(eventType);
 </script>
+<-->
 </pre>
