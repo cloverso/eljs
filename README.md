@@ -13,3 +13,5 @@
   $id.off(eventType,handle);
   $id.trigger(eventType);
 </pre>
+
+修改描述文档
